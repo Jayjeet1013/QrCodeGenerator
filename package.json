@@ -1,0 +1,16 @@
+{
+  "name": "backendt",
+  "version": "1.0.0",
+  "description": "for backend learning",
+  "license": "ISC",
+  "author": "jayjeet",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^12.3.0",
+    "qr-image": "^3.2.0"
+  }
+}
